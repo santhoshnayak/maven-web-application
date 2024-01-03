@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>santhoshaaasp Releases Nexus Repository</name>
-	      <url>http://13.215.172.63:9980/santhoshaaasp/repository/flipkart-Release/</url>
+	      <url>http://13.229.119.232:9980/santhoshaaasp/repository/flipkart-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>santhoshaaasp Snapshot Nexus Repository </name>
-	      <url>http://13.215.172.63:9980/santhoshaaasp/repository/flipkart-Snapshot/</url>
+	      <url>http://13.229.119.232:9980/santhoshaaasp/repository/flipkart-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
